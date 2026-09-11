@@ -1,4 +1,4 @@
-##Cyber Clinic Day for Not for Profits - 7 October##
+Cyber Clinic Day for Not for Profits - 7 October
 
 Join us at La Trobe University’s Cyber Clinic Day, a practical and interactive event designed to help not for profit organisations better understand their cyber risks and strengthen their cyber security.
 
