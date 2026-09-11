@@ -102,15 +102,16 @@ h1 .line-2{
 
 /* Text stand-in for the La Trobe lockup — replace with the official SVG */
 .latrobe{
-  display:flex;flex-direction:column;align-items:center;gap:1.5mm;
+  display:none;flex-direction:column;align-items:center;gap:1.5mm;
   text-align:center;
 }
-.latrobe svg{display:block}
+.latrobe svg{display:none}
 .latrobe .wordmark{
   font-family:var(--display);
   font-weight:600;
   color:var(--latrobe-red);
   line-height:1;
+  display: none;
 }
 .latrobe .wordmark .a{font-size:17pt;letter-spacing:.01em;display:block}
 .latrobe .wordmark .b{font-size:7.6pt;letter-spacing:.34em;display:block;margin-top:1.5mm}
